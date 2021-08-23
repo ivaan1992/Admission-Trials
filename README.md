@@ -36,8 +36,8 @@ In this project I'm learning how to become in a good and professional code revie
 
 👤 **Wahidullah Shadab**
 
-GitHub: @githubhandle
-LinkedIn: LinkedIn
+- GitHub: [@githubhandle]
+- LinkedIn: [LinkedIn]
 
 ## 🤝 Contributing
 
