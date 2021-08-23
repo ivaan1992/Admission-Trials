@@ -11,7 +11,7 @@ This is his admission trial project. And I submit it because I didn't have mine.
 
 
 
-In this project I cloned a template from Figma. 
+In this project I'm learning how to become in a good and professional code reviewer. 
 
 ## Built With
 
